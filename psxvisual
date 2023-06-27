@@ -1,12 +1,12 @@
 local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/Rayfield/main/source'))()
 local Window = Rayfield:CreateWindow({
-    Name = "PSX Visual Hub | Pet Simulator X",
+    Name = "D3PE Visual Hub | Pet Simulator X",
     LoadingTitle = "d3pe Hub Visual...",
     LoadingSubtitle = "by d3pe Hub",
     ConfigurationSaving = {
         Enabled = false,
         FolderName = "PSX", 
-        FileName = "Psx Hub"
+        FileName = "d3pe Hub"
     },
     Discord = {
         Enabled = true,
